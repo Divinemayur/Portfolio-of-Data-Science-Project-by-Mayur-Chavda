@@ -18,8 +18,10 @@ System Infosys (May 2028 - Aug 2021)
 > - Libraries: Numpy, Pandas, Seaborn, Scikit-learn, Matplotlib
 
 ## Projects
-#### 
+#### [MentalHealthsurvey](https://github.com/Divinemayur/MentalHealthsurvey)
 
->- 
->- 
->- 
+>- Transformed dataset and built functions which takes attributes as input to forge high level visualizations to analyze the attitude towards mental heath in tech companies.
+>- Technology: Jupyter notebook, Python, Libraries(Pandas, Seaborn, Matplotlib), Github
+
+#### [NewsAPI](https://github.com/Divinemayur/NewsAPI)
+
