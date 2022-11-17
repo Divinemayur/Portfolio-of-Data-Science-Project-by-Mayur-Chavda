@@ -25,3 +25,7 @@ System Infosys (May 2028 - Aug 2021)
 
 #### [NewsAPI](https://github.com/Divinemayur/NewsAPI)
 
+>- Created API calling Funtion to get the data from Source Websites.
+>- Added API resopnce handler to get the proper data
+>- Created Get Function to show top headlines
+>- Technology: Jupyter notebook, Python
