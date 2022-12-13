@@ -29,3 +29,5 @@ System Infosys (May 2028 - Aug 2021)
 >- Added API resopnce handler to get the proper data
 >- Created Get Function to show top headlines
 >- Technology: Jupyter notebook, Python
+
+![](https://github.com/Divinemayur/Portfolio-of-Data-Science-Project-by-Mayur-Chavda/blob/main/Roadmap.png)
